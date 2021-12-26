@@ -1,0 +1,29 @@
+.contenedor_flex {
+  display: flex;
+  flex-direction: column
+}
+.cabecera_flex {
+  height: 4em;
+}
+.contenedor_central_flex {
+  display: flex;
+  flex-direction: row
+}
+.menu_flex {
+  height: 10em;
+  width: 15%;
+    background-color: darksalmon;
+}
+.principal_flex {
+  height: 10em;
+  width: 65%;
+    background-color: antiquewhite;
+}
+.lateral_flex {
+  height: 10em;
+  width: 20%;
+    background-color: chartreuse;
+}
+.pie_flex {
+  height: 3em;
+}
