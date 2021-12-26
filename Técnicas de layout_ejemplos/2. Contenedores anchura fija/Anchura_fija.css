@@ -1,0 +1,31 @@
+.fijo_div {
+  width: 860px;
+  margin: 0 auto;
+}
+.cabecera_fijo_div {
+  width: 860px;
+  height: 4em;
+}
+.menu_fijo_div {
+  display: inline-block;
+  width: 510px;
+  height: 15em;
+  background-color:antiquewhite;
+}
+.principal_fijo_div {
+  display: inline-block;
+  width: 150px;
+  height: 12em;
+  background-color: chartreuse;
+}
+.lateral_fijo_div {
+  display: inline-block;
+  width: 198px;
+  height: 12em;
+  background-color: darksalmon;
+}
+.pie_fijo_div {
+  display: inline-block;
+  width: 860px;
+  height: 3em;
+}
