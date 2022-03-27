@@ -53,7 +53,7 @@ https://getbootstrap.com/docs/5.1/layout/breakpoints/
 
 En el mundo del diseño responsivo un **breakpoint** es un tamaño de pantalla (en pixels) donde se produce un cambio en la disposición de los elementos que conforman nuestra página web.
 En Bootstrap 5 se usan los siguientes:
-![breakpoints](BS5_Breakpoints)
+![breakpoints](BS5_Breakpoints.jpg)
 
 De **especial importancia** son los prefijos CSS de las clases **.col-*** 
 
@@ -290,29 +290,4 @@ Un ejemplo sería:
 </div>
 ```
 
- 1. kkkk
- 2. jjhjhjh
- 3. 
-ghjgghjhjgjgh
-# h1
-## h2
-### h3
-> [enlace a google](www.google.es)
-> 
- 4. List item
 
-
-
-
-<dl>
-
-<dt>elefono</dt>
-
-<dd>9999999</dd>
-
-<dt>email</dt>
-
-<dd>pepito@gmail.com</dd>
-
-</dl>
-`
