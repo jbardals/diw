@@ -124,7 +124,7 @@ También puedo fijar el breakpoint a partir de la cual quiero que la tabla sea r
 
 ## Formularios
 BootStrap proporciona una serie de clases para dar estilos a los distintos elementos de los formularios. De manera general podemos describir estas clases y la jerarquía que deben ocupar de la siguiente manera:
-![Jerarquias_Clases_BS_Formularios](Jerarquias_Clases_BS_Formularios.jpg)
+![Jerarquias_Clases_BS_Formularios](Jerarquias_Clases_BS_Formularios.JPG)
 
 Además, se le añadirá al final un  _input_  de tipo  _submit_  o  _button_  con las clases correspondientes a los botones cuyos ejemplos más comunes (hay muchos más) son:
 
