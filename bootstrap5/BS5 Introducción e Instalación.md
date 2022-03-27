@@ -38,14 +38,14 @@ necesidad de utilizar Internet
 Para ello, podemos descargar el código con la opción de “CSS y JS compilado” desde https://getbootstrap.com/docs/5.1/getting-started/download/
 Después de descomprimir el archivo descargado con la versión compilada de Bootstrap, verás una estructura de archivos y directorios similar a la siguiente:
 bootstrap/
-├── css/
-│ ├── bootstrap.css
-│ ├── bootstrap.min.css
-│ ├── bootstrap-grid.css
-│ └── bootstrap-grid.min.css
-├── js/
-├── bootstrap.js
-└── bootstrap.min.js
+	|-->css/
+		|-->bootstrap.css
+		|-->bootstrap.min.css
+		|-->bootstrap-grid.css
+		|-->bootstrap-grid.min.css
+    |-->js/
+		|-->bootstrap.js
+		|-->bootstrap.min.js
 
 Estos archivos son la forma más sencilla de utilizar Bootstrap en cualquier proyecto web. Para cada archivo se ofrecen dos variantes: los archivos compilados (cuyo
 nombre es bootstrap.*) y los archivos compilados + comprimidos (cuyo nombre es
