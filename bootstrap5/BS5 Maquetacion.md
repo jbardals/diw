@@ -82,8 +82,8 @@ Pudiendo ser lado:
 
 -   **t**  para margen superior (top).
 -   **b**  para margen inferior (bottom).
--   **l**  para margen izquierdo (left).
--   **r**  para margen derecho (right).
+-   **s**  para margen izquierdo (left).
+-   **e**  para margen derecho (right).
 -   **x**  para los márgenes superior e inferior.
 -   **y**  para los márgenes izquierdo y derecho.
 -   En blanco si es para todos los lados.
