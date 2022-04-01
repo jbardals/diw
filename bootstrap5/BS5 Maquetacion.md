@@ -281,7 +281,7 @@ Un ejemplo sería:
     <div class="col-md-6"><h3>Elemento con Gutter</h3></div>
   </div>
 
-  <div class="row no-gutters">
+  <div class="row g-0">
     <div class="col-md-6"><h3>Elemento sin gutter</h3></div>
     <div class="col-md-6"><h3>Segundo Elemento</h3></div>
   </div>
