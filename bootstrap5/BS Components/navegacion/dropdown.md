@@ -42,7 +42,7 @@ Un ejemplo de esta estructura sería:
 
 Es importante resaltar  que en elemento con la clase ***dropdown-toggle*** debe también poseer el atributo ***data-toggle="dropdown"*** para que el elemento funcione correctamente.
 
-Por supuesto los colores de los botones los podemos cambiar usando la paleta de colores de BootStrap 4.
+Por supuesto los colores de los botones los podemos cambiar usando la paleta de colores de BootStrap.
 
 ### Separar el botón de las opciones.
 

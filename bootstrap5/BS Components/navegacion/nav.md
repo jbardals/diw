@@ -1,6 +1,6 @@
 # Componente Nav
 
-El componente BootStrap 5 ***Nav*** es el componente básico de BootStrap 4 para formar menús y barras de navegación. Posteriormente veremos que existe otro componente que nos va a permitir realizar barras de navegación más complejas, el componente ***NavBar***.
+El componente BootStrap 5 ***Nav*** es el componente básico de BootStrap 5 para formar menús y barras de navegación. Posteriormente veremos que existe otro componente que nos va a permitir realizar barras de navegación más complejas, el componente ***NavBar***.
 
 Este componente tiene bastantes posibilidades pero, en su estructura más sencilla, podemos optar por una jerarquía formada a partir de listas HTML o bien por una jerarquía formada a partir de la etiqueta semántica nav (esta última la más recomendable, ya que es más corta y aporta significado.
 En todo caso podemos ver esas jerarquías aquí:
