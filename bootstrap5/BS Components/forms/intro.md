@@ -5,7 +5,7 @@ El componente BootStrap 5 formulario es un elemento complejo que además tiene m
 
 De manera general podemos describir estas clases y la jerarquía que deben ocupar de la siguiente manera:
 
-![Estructura general de los formularios](estructura.PNG)
+![Estructura general de los formularios](estructura.png)
 
 Además, se le añadirá al final un *input* de tipo *submit* o *button* con las clases correspondientes a los botones cuyos ejemplos más comunes (hay muchos más) son:
 
