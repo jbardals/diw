@@ -1,7 +1,7 @@
 
 # Componente Input-Group
 
-El componente BootStrap 4 ***Input-Group*** es un componente que nos va servir para extender los controles de los formularios pudiendo añadir *add-ons* como texto, botones o grupos de botones a ambos lados de los campos del mismo.
+El componente BootStrap 5 ***Input-Group*** es un componente que nos va servir para extender los controles de los formularios pudiendo añadir *add-ons* como texto, botones o grupos de botones a ambos lados de los campos del mismo.
 
 Presenta varias posibilidades que comentaremos luego pero podemos generalizar varias estructuras:
 

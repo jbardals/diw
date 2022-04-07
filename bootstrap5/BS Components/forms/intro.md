@@ -1,6 +1,6 @@
 # Componente formularios
 
-El componente BootStrap 4 formulario es un elemento complejo que además tiene muchos más componentes relacionados. En este capítulo nos vamos a centrar en una estructura general de los mismos y en capítulos posteriores profundizaremos más en el tema.
+El componente BootStrap 5 formulario es un elemento complejo que además tiene muchos más componentes relacionados. 
 
 
 De manera general podemos describir estas clases y la jerarquía que deben ocupar de la siguiente manera:
@@ -15,7 +15,6 @@ Además, se le añadirá al final un *input* de tipo *submit* o *button* con las
 * **btn btn-danger**
 * **btn btn-warning**
 
-Profundizaremos en los botones en el siguiente capítulo.
 
 ### Modificar aspectos de los formularios.
 

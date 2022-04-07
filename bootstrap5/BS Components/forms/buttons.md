@@ -1,7 +1,7 @@
 
 # Componentes Button
 
-El componente BootStrap 4 ***Button*** nos sirve para representar botones. Esto se consigue añadiendo la clase ***btn*** a las etiquetas ***button***,***a*** e ***input***. 
+El componente BootStrap 5 ***Button*** nos sirve para representar botones. Esto se consigue añadiendo la clase ***btn*** a las etiquetas ***button***,***a*** e ***input***. 
 
 No vamos a representar la jerarquía del DOM por ser sólo un elemento.
 
@@ -22,7 +22,7 @@ Por ejemplo:
 
 # Checkboxes y Radios usando botones.
 
-Usando BootStrap 4 podemos modificar la apariencia de los elementos *radio* y *checkbox* para que se muestren como si fueran botones.
+Usando BootStrap 5 podemos modificar la apariencia de los elementos *radio* y *checkbox* para que se muestren como si fueran botones.
 
 Para simular con botones un radio group podemos utilizar una estructura similar a la siguiente:
 
@@ -53,13 +53,13 @@ En caso de que quisieramos hacer lo mismo con un *checkbox* sólo tenemos que ca
 
 ### Funciones asociadas.
 
-* ***.button('toogle')*** Simula que el el botón esté seleccionado o no (activado)
+* ***.button('toogle')*** Simula que el botón esté seleccionado o no (activado)
 * ***.button('dispose')*** Destruye el elemento botón, deja de funcionar como tal.
 
 
 # Componente Button Group
 
-El componente BootStrap 4 ***Button Group*** sirve para agrupar botones en una sola linea pudiendo tener más de una agrupación para formar una barra de botones o botonera.
+El componente BootStrap 5 ***Button Group*** sirve para agrupar botones en una sola linea pudiendo tener más de una agrupación para formar una barra de botones o botonera.
 
 De manera general la estructura del DOM sería similar a la siguiente:
 
