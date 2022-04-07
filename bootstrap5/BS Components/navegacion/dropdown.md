@@ -1,8 +1,8 @@
 # Componente Dropdown
 
-El componente ***dropdown*** de Bootstrap 4 es lo que conocemos como un elemento desplegable con una lista de opciones (submenú) que se muestran al hacer click sobre el elemento padre.
+El componente ***dropdown*** de Bootstrap 5 es lo que conocemos como un elemento desplegable con una lista de opciones (submenú) que se muestran al hacer click sobre el elemento padre.
 
-La estructura del DOM y las clases BootStrap 4 que debe tener un elemento Dropdown son las siguientes en su configuració básica:
+La estructura del DOM y las clases BootStrap 5 que debe tener un elemento Dropdown son las siguientes en su configuració básica:
 
 ![Estructura del DOM del componente Dropdown](dropdown_DOM.png).
 
@@ -104,7 +104,7 @@ Por defecto los submenú se posicionan a la izquierda pero si quiero puedo posic
 
 ## Funciones asociadas
 
-Las más importantes son, bajo mi punto de vista:
+Las más importantes son:
 
 * ***.dropdown('toggle')*** Cambia el estado del dropdown de un elemento de navegación
 * ***.dropdown('update')*** Actualiza la posición de un elemento.

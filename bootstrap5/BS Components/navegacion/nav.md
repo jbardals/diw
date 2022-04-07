@@ -1,8 +1,9 @@
 # Componente Nav
 
-El componente BootStrap 4 ***Nav*** es el componente básico de BootStrap 4 para formar menús y barras de navegación. Posteriormente veremos que existe otro componente que nos va a permitir realizar barras de navegación más complejas, el componente ***NavBar***.
+El componente BootStrap 5 ***Nav*** es el componente básico de BootStrap 4 para formar menús y barras de navegación. Posteriormente veremos que existe otro componente que nos va a permitir realizar barras de navegación más complejas, el componente ***NavBar***.
 
-Este componente tiene bastantes posibilidades pero, en su estructura más sencilla, podemos optar por una jerarquía formada a partir de listas HTML o bien por una jerarquía formada a partir de la etiqueta semántica nav. Personalmente recomiendo la segunda, es más corta y aporta significado. En todo caso podemos ver esas jerarquías aquí:
+Este componente tiene bastantes posibilidades pero, en su estructura más sencilla, podemos optar por una jerarquía formada a partir de listas HTML o bien por una jerarquía formada a partir de la etiqueta semántica nav (esta última la más recomendable, ya que es más corta y aporta significado.
+En todo caso podemos ver esas jerarquías aquí:
 
 
 ![Dos posibilidades para el DOM del Nav](nav_DOM.png)
@@ -28,7 +29,7 @@ Podemos ver un ejemplo con cada una de estas posibilidades aquí:
     </nav>
 
 ```
-Para alinear los elementos del menú podemos usar las [utilidades flex de BootStrap 4](https://getbootstrap.com/docs/4.0/utilities/flex/).
+Para alinear los elementos del menú podemos usar las [utilidades flex de BootStrap 5](https://getbootstrap.com/docs/5.0/utilities/flex/).
 
 Además de la forma tradicional de menú podemos optar por un menú de pestañas (***tabs***) o un menú de píldoras (***pills***). Para ello nos basta con añadir las clases ***nav-tabs*** o ***nav-pills*** al elemento que padres, el que posee la clase ***nav***.
 
@@ -36,7 +37,7 @@ En estos dos casos para ver que lo estamos aplicando correctamente debemos añad
 
 ### Consideraciones adicionales.
 
-* Para que el menú ocupe toas la anchura del padre,si hemos construido el menú con listas debemos añadir la clase ***nav-fill*** al elemento padre que contiene la clase ***nav*** y adicionalmente, añadir la clase ***nav-item*** a los enlaces si hemos usado la etiqueta *nav*.
+* Para que el menú ocupe todas la anchura del padre,si hemos construido el menú con listas debemos añadir la clase ***nav-fill*** al elemento padre que contiene la clase ***nav*** y adicionalmente, añadir la clase ***nav-item*** a los enlaces si hemos usado la etiqueta *nav*.
 * Si queremos que todos los elementos del menú ocupen lo mismo en anchura debemos añadir la clase ***nav-justified*** al elemento padre y adicionalmente, añadir la clase ***nav-item*** a los enlaces si hemos usado la etiqueta *nav*.
 * Podemos construir menús anidados usando el componente ***dropbdown*** que hemos visto anteriormente siendo el elemento padre del ***dropdown*** el que contiene la clase ***nav-item***.
 

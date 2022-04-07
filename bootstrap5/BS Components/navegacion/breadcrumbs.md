@@ -1,7 +1,7 @@
 
 # Componente BreadCrumbs
 
-El componente BootStrap 4 *BreadCrumbs* (miguitas de pan en castellano) es un componente sencillo de BootStrap  4 que nos permite mostrar en qué lugar de la jerarquía de los contenidos de nuestra página nos encontramos.
+El componente BootStrap 5 *BreadCrumbs* (miguitas de pan en castellano) es un componente sencillo de BootStrap  5 que nos permite mostrar en qué lugar de la jerarquía de los contenidos de nuestra página nos encontramos.
 
 Tiene, de manera general. la siguiente jerarquía:
 

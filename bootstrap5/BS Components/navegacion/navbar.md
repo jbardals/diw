@@ -1,7 +1,7 @@
 
 # Componente NavBar
 
-El componente BootStrap 4 ***Navbar*** es un componente que nos permite construir barras de navegación responsivas y más complejas que las que podemos construir con el componente *Nav*
+El componente BootStrap 5 ***Navbar*** es un componente que nos permite construir barras de navegación responsivas y más complejas que las que podemos construir con el componente *Nav*
 
 Puede estar formado (no todos son obligatorios) por lo siguiente elementos:
 
@@ -22,7 +22,7 @@ Un ejemplo sería el siguiente:
 ```html
 
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-      <a class="navbar-brand" href="#"><img src="logo-openwebinars.png"/></a>
+      <a class="navbar-brand" href="#"><img src="logo.png"/></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -45,9 +45,9 @@ Un ejemplo sería el siguiente:
 
 ```
 
-**IMPORTANTE:** Si queremos que el menú se muestre desplegado desde el principio no debemos olvidarnos de la clase ***nav-expand-X*** siendo X uno de los breakpoints de BootStrap (sm,md,lg,xl). A partir de ese breakpoint se mostrará sin colapsar.Para más detalles ver el curso de maquetación.
+**IMPORTANTE:** Si queremos que el menú se muestre desplegado desde el principio no debemos olvidarnos de la clase ***nav-expand-X*** siendo X uno de los breakpoints de BootStrap (sm,md,lg,xl). A partir de ese breakpoint se mostrará sin colapsar.
 
-Podemos cambiar los colores del menú usando las clases ***navbar-X*** y ***bg-X*** siendo X un color de la paleta de colores de BootStrap 4.
+Podemos cambiar los colores del menú usando las clases ***navbar-X*** y ***bg-X*** siendo X un color de la paleta de colores de BootStrap 5.
 
 ### Posicionando el menú
 
