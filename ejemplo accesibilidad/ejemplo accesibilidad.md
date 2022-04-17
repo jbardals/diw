@@ -11,5 +11,7 @@ o Mostrar la información de contacto con la dirección, el teléfono y un croqu
 1. Elaborar una tabla donde se indique, para **cada una de las especificaciones** del diseño anterior, el **tipo/s de discapacidad**: visual, auditiva, cognitiva, motriz que habrá que tener en cuenta.
 2. Indica qué técnicas se te ocurre usar para cumplirlos  requisitos definidos en las WCAG 2 para los tipos de discapacidad considerados en cada caso.
 Posible solución:
+
+
 ![secciones_discapac](secciones_discapac.JPG)
 
