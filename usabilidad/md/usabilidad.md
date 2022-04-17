@@ -466,21 +466,21 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
 
 - <https://es.wikipedia.org/wiki/Jakob_Nielsen>
 
-## Visibilidad estado
+### Visibilidad estado
 
 - El sistema (o sitio web) siempre debe **informar al usuario acerca de lo que está sucediendo**, como por ejemplo, cuando en una interfaz tipo webmail se adjuntan ficheros a un mensaje, el sistema debe informar del hecho mostrando un mensaje de espera.
 
-## Adecuación al mundo real
+### Adecuación al mundo real
 
 - El sistema debe hablar el **lenguaje del usuario**, huyendo de tecnicismos incomprensibles o mensajes crípticos.
 
-## Libertad y control
+### Libertad y control
 
 - El usuario debe tener el control del sistema, ser él el que decida.
 
 - Se debe ofrecer siempre una forma de "**salida de emergencia**", como por ejemplo la opción para "saltar" animaciones de introducción
 
-## Consistencia y estándares
+### Consistencia y estándares
 
 - Consistencia en el **estilo** (enlaces iguales, pestañas iguales, etc.)
 
@@ -491,29 +491,29 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
     - opciones a la izquierda o a la derecha
     - pie de página con un resumen del mapa de la web
 
-## Prevención de errores
+### Prevención de errores
 
 - Mejor que un buen mensaje de error es un **diseño que prevenga** que ocurra el error.
 
-## Reconocimiento antes que recuerdo
+### Reconocimiento antes que recuerdo
 
 - Hacer **visibles objetos, acciones y opciones** para que el usuario no tenga por qué recordar información entre distintas secciones o partes del sitio web o aplicación.
 
 - El usuario **no tiene por qué recordar** dónde se encontraba cierta información, o cómo se llegaba a determinada página.
 
-## Flexibilidad y eficiencia
+### Flexibilidad y eficiencia
 
 - El sitio debe ser **fácil de usar para usuarios inexpertos**.
 
 - Pero también proporcionar **atajos o aceleradores para usuarios avanzados**.
 
-## Diseño estético y minimalista
+### Diseño estético y minimalista
 
 - Las páginas **no deben contener información irrelevante o innecesaria**.
 
 - Cada **información extra compite con la información relevante** y disminuye su visibilidad.
 
-## Manejo de errores
+### Manejo de errores
 
 - Los mensajes de error deben **expresar claramente cuál ha sido la causa** del problema.
 
@@ -521,54 +521,54 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
 
 - Además se debe **guardar el contenido** introducido por el usuario para que no tenga que volver introducirlo y pueda subsanar el error.
 
-## Ayuda y documentación
+### Ayuda y documentación
 
 - Aunque es mejor que un sitio web se pueda utilizar sin necesidad de ayuda o documentación, **en sitios web extensos o en procesos de interacción complejos se debe proporcionar información de ayuda** al usuario.
 
 ## Tognazzini
 
-##  Anticipación
+###  Anticipación
 
 - el sitio web debe anticiparse a las necesidades del usuario. No esperes que el usuario busque o recuerde información o herramientas. Muestra al usuario toda la información y herramientas necesarias para cada etapa en su trabajo.
 
-##  Autonomía
+###  Autonomía
 
 - los usuarios deben tener sensación de control sobre el sitio web. Deben saber dónde está y qué puede hacer en cada instante.
 
-##  Colores
+###  Colores
 - los colores han de utilizarse con precaución para no dificultar el acceso a los usuarios con problemas de distinción de colores.
 
-##  Consistencia
+###  Consistencia
 
 - las aplicaciones deben ser consistentes con las expectativas de los usuarios, es decir, con su aprendizaje previo.
 
-##  Eficiencia del usuario
+###  Eficiencia del usuario
 	
 - los sitios web se deben centrar en la productividad del usuario, no en la del propio sitio web. En ocasiones tareas con mayor número de pasos son más rápidas de realizar para una persona que otras tareas con menos pasos, pero más complejas.
 
-##  Reversibilidad
+###  Reversibilidad
 	
 - un sitio web ha de permitir deshacer las acciones realizadas.
 
-##  La ley de Fitts
+###  La ley de Fitts
 - indica que el tiempo para alcanzar un objetivo con el ratón está en función de la distancia y el tamaño del objetivo. A menor distancia y mayor tamaño, más facilidad para usar un mecanismo de interacción.
 
-##  Reducción del tiempo de latencia
+###  Reducción del tiempo de latencia
 	
 - se debe optimizar el tiempo de espera del usuario, permitiendo la realización de otras tareas mientras se completa la previa e informando al usuario del tiempo pendiente para la finalización de la tarea.
 
-##  Aprendizaje
+###  Aprendizaje
 	
 - los sitios web deben requerir un mínimo proceso de aprendizaje y deben poder ser utilizados desde el primer momento.
 
-##  Legibilidad
+###  Legibilidad
 	
 - el color de los textos debe contrastar con el del fondo, y el tamaño de fuente debe ser suficientemente grande.
 
-##  Seguimiento de las acciones del usuario
+###  Seguimiento de las acciones del usuario
 - almacenando información sobre su comportamiento previo se ha de permitir al usuario realizar operaciones frecuentes de manera más rápida 
 
-##  Interfaz visible
+###  Interfaz visible
 	
 - se deben evitar elementos invisibles de navegación que no sean evidentes.
 
