@@ -428,22 +428,22 @@
 
 ## Navegación
 Una interfaz de navegación estará bien diseñada si se comprueban ciertos aspectos básicos:
-    - El usuario sabe en todo momento dónde está. 
+- El usuario sabe en todo momento dónde está. 
 
-    - Todos los documentos tienen títulos claros. El título es el primer elemento que los navegadores leen y que se visualiza en los marcadores y en las pestañas del mismo.
+- Todos los documentos tienen títulos claros. El título es el primer elemento que los navegadores leen y que se visualiza en los marcadores y en las pestañas del mismo.
 
-    - Incorpora referencias que permiten saber lo actualizada que está la información.
+- Incorpora referencias que permiten saber lo actualizada que está la información.
 
-    - Se muestra información sobre la persona/entidad autora o propietaria de los contenidos para proporcionar mayor confianza.
+- Se muestra información sobre la persona/entidad autora o propietaria de los contenidos para proporcionar mayor confianza.
 	 
 Los sitios web deben ser atractivos para los usuarios que los visitan, pues de ello dependerá que compren, se registren o las dos cosas según el caso. Para facilitar la navegación existen recomendaciones:
-    - Enlaces "Volver": a la hora de incluir enlaces y botones es importante describir al usuario hacia dónde va a volver (por ejemplo, volver al inicio). Son importantes al realizar procesos interactivos con formularios, ya que en esos casos usar el botón de volver del navegador puede provocar el reenvío de datos de los mismos al servidor y obtener resultados no deseados.
+- Enlaces "Volver": a la hora de incluir enlaces y botones es importante describir al usuario hacia dónde va a volver (por ejemplo, volver al inicio). Son importantes al realizar procesos interactivos con formularios, ya que en esos casos usar el botón de volver del navegador puede provocar el reenvío de datos de los mismos al servidor y obtener resultados no deseados.
 
-    - Menú de navegación siempre accesible: le evoca al usuario la sensación de tener el control sobre sus movimientos a través del sitio web. Si la estructura y la navegación es adecuada el usuario debería ser capaz de acceder a la información que busca utilizando menos de 3 clics.
+- Menú de navegación siempre accesible: le evoca al usuario la sensación de tener el control sobre sus movimientos a través del sitio web. Si la estructura y la navegación es adecuada el usuario debería ser capaz de acceder a la información que busca utilizando menos de 3 clics.
 
-    - Identificación de la situación actual en el sitio web.
+- Identificación de la situación actual en el sitio web.
 
-    - Velocidad de conexión y de carga de los sitios web: se deben evitar los sitios pesados, que impidan la rapidez de descarga con optimización de las imágenes, gráficos y animaciones. Si una página tarda mucho tiempo en cargar lo habitual es que el usuario la abandone. 
+- Velocidad de conexión y de carga de los sitios web: se deben evitar los sitios pesados, que impidan la rapidez de descarga con optimización de las imágenes, gráficos y animaciones. Si una página tarda mucho tiempo en cargar lo habitual es que el usuario la abandone. 
 
 
 ## Implementación y lanzamiento
