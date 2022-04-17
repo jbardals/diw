@@ -1,6 +1,6 @@
 ﻿
 ## Enunciado
-Disponemos del [código fuente](CodigoFuente) de un sitio Web implementado según las siguientes especificaciones:
+Disponemos del [código fuente](codigoFuente) de un sitio Web implementado según las siguientes especificaciones:
 
 - Interfaz visual: en la página principal se verá una animación con dibujos mostrando el proceso de elaboración del pan.
 - Tres secciones: panadería, pastelería - bollería y empanadas.
