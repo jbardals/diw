@@ -1,86 +1,11 @@
-% Usabilidad Web
-% Adolfo Sanz De Diego
-% @asanzdiego
-
-
 
 # El autor
 
-
-
 ## Adolfo Sanz De Diego
-
-- Empecé **desarrollando aplicaciones web**, hasta que di el salto a la docencia.
-
-- Actualmente soy **Asesor Técnico Docente** en el servicio TIC de la D.G de Infraestructuras y Servicios de la Consejería de Educación, Juventud y Deporte de la Comunidad de Madrid.
-
-- Además colaboro como **formador especializado en tecnologías de desarrollo**.
-
-
-## Algunos proyectos
-
-- **Hackathon Lovers** <http://hackathonlovers.com>: un grupo creado para emprendedores y desarrolladores amantes de los hackathones.
-
-- **Password Manager Generator** <http://pasmangen.github.io>: un gestor de contraseñas online.
-
-- **MarkdownSlides** <https://github.com/asanzdiego/markdownslides>: un script para crear slides a partir de ficheros MD.
-
-
-## ¿Donde encontrarme?
-
-- Mi nick: **asanzdiego**
-
-    - AboutMe:  <http://about.me/asanzdiego>
-    - GitHub:   <http://github.com/asanzdiego>
-    - Twitter:  <http://twitter.com/asanzdiego>
-    - Blog:     <http://asanzdiego.blogspot.com.es>
-    - LinkedIn: <http://www.linkedin.com/in/asanzdiego>
-    - Google+:  <http://plus.google.com/+AdolfoSanzDeDiego>
-
-
-
 # Introducción
 
 
-
-## ¿Qué?
-
-- Vamos a ver qué es la **usabilidad de un sitio web y como mejorarla**.
-
-## ¿Por qué? (I)
-
-- **Mejora en la calidad del producto**: los sistemas que mejor se ajustan a las necesidades del usuario mejoran la productividad y la calidad de las acciones y las decisiones.
-
-- **Reducción de los costes de mantenimiento**: los sistemas que son fáciles de usar requieren menos entrenamiento, menos soporte para el usuario y menos mantenimiento.
-
-## ¿Por qué? (II)
-
-- **Reducción de los costes de producción**: los costes y tiempos de desarrollo totales pueden ser reducidos evitando el sobrediseño y reduciendo el número de cambios posteriores requeridos en el producto.
-
-- **Un caso real**, después de ser rediseñado prestándose especial atención a la usabilidad, el sitio web de IBM incrementó sus ventas en un 400%
-
-## ¿Cómo? (I)
-
-- Primero **definiremos varios términos importantes**: usabilidad, accesibilidad, arquitectura de la información, experiencia de usuario y diseño centrado en el usuario.
-
-- Luego intentaremos **conocer al usuario**, saber como ve, como piensa y como actúa.
-
-## ¿Cómo? (II)
-
-- Después veremos como **evitando que el usuario cometa errores, y simplificando el diseño**, podemos mejorar la usabilidad.
-
-- También veremos la metodología del **diseño centrado en el usuario**, que se compone de varias fases: planificación, diseño, prototipado, evaluación, implementación y lanzamiento, y mantenimiento y seguimiento.
-
-## ¿Cómo? (III)
-
-- Seguidamente veremos **los principios de usabilidad y las técnicas de evaluación**: card-sorting, evaluación heurística, test de usuarios, eye-tracking, feedback, analítica web, tests A/B.
-
-- Para terminar propondremos varios varios **ejercicios** para realizar en clase en gruposde 3-4.
-
-
-
 # Glosario de términos
-
 
 
 ## Usabilidad (I)
@@ -115,21 +40,6 @@
 
 - La accesibilidad se refiere a la capacidad del sistema a para **facilitar el acceso a todas las personas** en igualdad de condiciones, independientemente de la tecnología o soporte que utilicen y de la discapacidad que puedan presentar.
 
-## Arquitectura Información (I)
-
-- Disciplina que busca **organizar espacios de información** con el fin de ayudar a los usuarios a satisfacer sus necesidades de información.
-
-- La actividad de organizar **comporta la estructuración, clasificación y rotulado** de los contenidos.
-
-- La AI es el elemento que sostiene estructuralmente el contenido, por tanto, debe **definirse en las primeras etapas**, ya que de ella dependerán otros elementos del diseño.
-
-## Arquitectura Información (II)
-
-- El objetivo principal es **facilitar al usuario la recuperación de información**.
-
-- La recuperación de información es **una de las tareas de mayor importancia** para los usuarios.
-
-- Una **mala AI dificulta la búsqueda, y a la larga realizar otras tareas** (como comprar).
 
 ## Experiencia Usuario
 
@@ -461,61 +371,6 @@
 
 
 
-
-## Prototipado
-
-- Algunas herramientas:
-    - <http://pencil.evolus.vn/>
-    - <http://moqups.com>
-    - <http://gomockingbird.com>
-    - <http://balsamiq.com>
-    - <http://www.mockflow.com>
-    - <http://wireframe.cc>
-    - <http://www.axure.com>
-
-## Pencil (Instalación)
-
-- Descarga desde: <http://pencil.evolus.vn/>
-
-- Instalar normalmente según plafatorma (Linux, Mac o Windows)
-
-- Instalar las colecciones y las plantillas.
-
-## Pencil (Colecciones I)
-
-- Font-Awesome-Icons:
-  - <https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/FontAwesomeIcons_1.0.zip>
-
-- Android-Lollipop-Pencil-Stencils:
-  - <https://github.com/nathanielw/Android-Lollipop-Pencil-Stencils/releases/download/v1.1.0/android-lollipop-pencil-stencils-v1.1.0.zip>
-
-## Pencil (Colecciones II)
-
-- Bootstrap-Pencil-Stencils:
-  - <https://github.com/nathanielw/Bootstrap-Pencil-Stencils/releases/download/v1.1.0/bootstrap-pencil-stencils-v1.1.0.zip>
-
-- Material-Icons-for-Pencil:
-  - <https://github.com/nathanielw/Material-Icons-for-Pencil/releases/download/v2.0.0/material-icons-for-pencil-v2.0.0.zip>
-
-## Pencil (Plantillas I)
-
-- Pencil-Material-Design-Template:
-  - <https://github.com/DaniGuardiola/pencil-material-template/raw/master/build/pencil-material-template-mobile.zip>
-
-- TabNav:
-  - <https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/TabNav.zip>
-
-- JQUERY:
-  - <https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/JQUERY.zip>
-
-## Pencil (Plantillas II)
-
-- GUIPrototypingSmall:
-  - <https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/GUIPrototypingSmall.zip>
-
-- GUIPrototypingTemplate:
-  - <https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/GUIPrototypingTemplate.zip>
-
 ## Evaluación
 
 - La usabilidad la podemos mediante varias variables:
@@ -570,6 +425,25 @@
     - % de usuarios que lo califican más fácil de usar que el de la competencia
     - % de usuarios que expresan satisfacción (o insatisfacción)
 
+
+## Navegación
+Una interfaz de navegación estará bien diseñada si se comprueban ciertos aspectos básicos:
+     - El usuario sabe en todo momento dónde está. 
+
+     - Todos los documentos tienen títulos claros. El título es el primer elemento que los navegadores leen y que se visualiza en los marcadores y en las pestañas del mismo.
+
+     - Incorpora referencias que permiten saber lo actualizada que está la información.
+
+     - Se muestra información sobre la persona/entidad autora o propietaria de los contenidos para proporcionar mayor confianza.
+	 
+Los sitios web deben ser atractivos para los usuarios que los visitan, pues de ello dependerá que compren, se registren o las dos cosas según el caso. Para facilitar la navegación existen recomendaciones:
+     - Enlaces "Volver": a la hora de incluir enlaces y botones es importante describir al usuario hacia dónde va a volver (por ejemplo, volver al inicio). Son importantes al realizar procesos interactivos con formularios, ya que en esos casos usar el botón de volver del navegador puede provocar el reenvío de datos de los mismos al servidor y obtener resultados no deseados.
+
+     - Menú de navegación siempre accesible: le evoca al usuario la sensación de tener el control sobre sus movimientos a través del sitio web. Si la estructura y la navegación es adecuada el usuario debería ser capaz de acceder a la información que busca utilizando menos de 3 clics.
+
+     - Identificación de la situación actual en el sitio web.
+
+     - Velocidad de conexión y de carga de los sitios web: se deben evitar los sitios pesados, que impidan la rapidez de descarga con optimización de las imágenes, gráficos y animaciones. Si una página tarda mucho tiempo en cargar lo habitual es que el usuario la abandone. 
 
 
 ## Implementación y lanzamiento
@@ -650,6 +524,54 @@
 ## Ayuda y documentación
 
 - Aunque es mejor que un sitio web se pueda utilizar sin necesidad de ayuda o documentación, **en sitios web extensos o en procesos de interacción complejos se debe proporcionar información de ayuda** al usuario.
+
+## Tognazzini
+
+##  Anticipación
+
+- el sitio web debe anticiparse a las necesidades del usuario. No esperes que el usuario busque o recuerde información o herramientas. Muestra al usuario toda la información y herramientas necesarias para cada etapa en su trabajo.
+
+##  Autonomía
+
+- los usuarios deben tener sensación de control sobre el sitio web. Deben saber dónde está y qué puede hacer en cada instante.
+
+##  Los colores han de utilizarse con precaución para no dificultar el acceso a los usuarios con problemas de distinción de colores.
+
+##  Consistencia
+
+- las aplicaciones deben ser consistentes con las expectativas de los usuarios, es decir, con su aprendizaje previo.
+
+##  Eficiencia del usuario
+	
+- los sitios web se deben centrar en la productividad del usuario, no en la del propio sitio web. En ocasiones tareas con mayor número de pasos son más rápidas de realizar para una persona que otras tareas con menos pasos, pero más complejas.
+
+##  Reversibilidad
+	
+- un sitio web ha de permitir deshacer las acciones realizadas.
+
+##  La ley de Fitts indica que el tiempo para alcanzar un objetivo con el ratón está en función de la distancia y el tamaño del objetivo. A menor distancia y mayor tamaño, más facilidad para usar un mecanismo de interacción.
+
+##  Reducción del tiempo de latencia
+	
+- se debe optimizar el tiempo de espera del usuario, permitiendo la realización de otras tareas mientras se completa la previa e informando al usuario del tiempo pendiente para la finalización de la tarea.
+
+##  Aprendizaje
+	
+- los sitios web deben requerir un mínimo proceso de aprendizaje y deben poder ser utilizados desde el primer momento.
+
+##  El uso adecuado de metáforas facilita el aprendizaje de un sitio web, pero un uso inadecuado de estas puede dificultar enormemente el aprendizaje.
+
+##  La protección del trabajo de los usuarios es algo prioritario, se debe asegurar que los usuarios nunca pierden su trabajo como consecuencia de un error.
+
+##  Legibilidad
+	
+- el color de los textos debe contrastar con el del fondo, y el tamaño de fuente debe ser suficientemente grande.
+
+##  Seguimiento de las acciones del usuario: almacenando información sobre su comportamiento previo se ha de permitir al usuario realizar operaciones frecuentes de manera más rápida 
+
+##  Interfaz visible
+	
+- se deben evitar elementos invisibles de navegación que no sean evidentes.
 
 
 
@@ -920,19 +842,11 @@
 
 ## Licencia
 
-- Estas **transparencias** están hechas con:
-    - MarkdownSlides: <https://github.com/asanzdiego/markdownslides>
 
 - Estas **transparencias** están bajo una licencia Creative Commons Reconocimiento-CompartirIgual 3.0:
     - <http://creativecommons.org/licenses/by-sa/3.0/es>
 
-## Fuentes
 
-- Transparencias:
-    - <https://github.com/asanzdiego/curso-interfaces-web-2020/tree/master/01-usabilidad/slides>
-
-- Ejercicios:
-    - <https://github.com/asanzdiego/curso-interfaces-web-2020/tree/master/01-usabilidad/src>
 
 ## Bibliografía (I)
 
