@@ -428,22 +428,22 @@
 
 ## Navegación
 Una interfaz de navegación estará bien diseñada si se comprueban ciertos aspectos básicos:
-     - El usuario sabe en todo momento dónde está. 
+    - El usuario sabe en todo momento dónde está. 
 
-     - Todos los documentos tienen títulos claros. El título es el primer elemento que los navegadores leen y que se visualiza en los marcadores y en las pestañas del mismo.
+    - Todos los documentos tienen títulos claros. El título es el primer elemento que los navegadores leen y que se visualiza en los marcadores y en las pestañas del mismo.
 
-     - Incorpora referencias que permiten saber lo actualizada que está la información.
+    - Incorpora referencias que permiten saber lo actualizada que está la información.
 
-     - Se muestra información sobre la persona/entidad autora o propietaria de los contenidos para proporcionar mayor confianza.
+    - Se muestra información sobre la persona/entidad autora o propietaria de los contenidos para proporcionar mayor confianza.
 	 
 Los sitios web deben ser atractivos para los usuarios que los visitan, pues de ello dependerá que compren, se registren o las dos cosas según el caso. Para facilitar la navegación existen recomendaciones:
-     - Enlaces "Volver": a la hora de incluir enlaces y botones es importante describir al usuario hacia dónde va a volver (por ejemplo, volver al inicio). Son importantes al realizar procesos interactivos con formularios, ya que en esos casos usar el botón de volver del navegador puede provocar el reenvío de datos de los mismos al servidor y obtener resultados no deseados.
+    - Enlaces "Volver": a la hora de incluir enlaces y botones es importante describir al usuario hacia dónde va a volver (por ejemplo, volver al inicio). Son importantes al realizar procesos interactivos con formularios, ya que en esos casos usar el botón de volver del navegador puede provocar el reenvío de datos de los mismos al servidor y obtener resultados no deseados.
 
-     - Menú de navegación siempre accesible: le evoca al usuario la sensación de tener el control sobre sus movimientos a través del sitio web. Si la estructura y la navegación es adecuada el usuario debería ser capaz de acceder a la información que busca utilizando menos de 3 clics.
+    - Menú de navegación siempre accesible: le evoca al usuario la sensación de tener el control sobre sus movimientos a través del sitio web. Si la estructura y la navegación es adecuada el usuario debería ser capaz de acceder a la información que busca utilizando menos de 3 clics.
 
-     - Identificación de la situación actual en el sitio web.
+    - Identificación de la situación actual en el sitio web.
 
-     - Velocidad de conexión y de carga de los sitios web: se deben evitar los sitios pesados, que impidan la rapidez de descarga con optimización de las imágenes, gráficos y animaciones. Si una página tarda mucho tiempo en cargar lo habitual es que el usuario la abandone. 
+    - Velocidad de conexión y de carga de los sitios web: se deben evitar los sitios pesados, que impidan la rapidez de descarga con optimización de las imágenes, gráficos y animaciones. Si una página tarda mucho tiempo en cargar lo habitual es que el usuario la abandone. 
 
 
 ## Implementación y lanzamiento
@@ -535,7 +535,8 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
 
 - los usuarios deben tener sensación de control sobre el sitio web. Deben saber dónde está y qué puede hacer en cada instante.
 
-##  Los colores han de utilizarse con precaución para no dificultar el acceso a los usuarios con problemas de distinción de colores.
+##  Colores
+- los colores han de utilizarse con precaución para no dificultar el acceso a los usuarios con problemas de distinción de colores.
 
 ##  Consistencia
 
@@ -549,7 +550,8 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
 	
 - un sitio web ha de permitir deshacer las acciones realizadas.
 
-##  La ley de Fitts indica que el tiempo para alcanzar un objetivo con el ratón está en función de la distancia y el tamaño del objetivo. A menor distancia y mayor tamaño, más facilidad para usar un mecanismo de interacción.
+##  La ley de Fitts
+- indica que el tiempo para alcanzar un objetivo con el ratón está en función de la distancia y el tamaño del objetivo. A menor distancia y mayor tamaño, más facilidad para usar un mecanismo de interacción.
 
 ##  Reducción del tiempo de latencia
 	
@@ -559,15 +561,12 @@ Los sitios web deben ser atractivos para los usuarios que los visitan, pues de e
 	
 - los sitios web deben requerir un mínimo proceso de aprendizaje y deben poder ser utilizados desde el primer momento.
 
-##  El uso adecuado de metáforas facilita el aprendizaje de un sitio web, pero un uso inadecuado de estas puede dificultar enormemente el aprendizaje.
-
-##  La protección del trabajo de los usuarios es algo prioritario, se debe asegurar que los usuarios nunca pierden su trabajo como consecuencia de un error.
-
 ##  Legibilidad
 	
 - el color de los textos debe contrastar con el del fondo, y el tamaño de fuente debe ser suficientemente grande.
 
-##  Seguimiento de las acciones del usuario: almacenando información sobre su comportamiento previo se ha de permitir al usuario realizar operaciones frecuentes de manera más rápida 
+##  Seguimiento de las acciones del usuario
+- almacenando información sobre su comportamiento previo se ha de permitir al usuario realizar operaciones frecuentes de manera más rápida 
 
 ##  Interfaz visible
 	
